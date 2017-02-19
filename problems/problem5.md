@@ -9,3 +9,7 @@ gitでファイルを無視するには通常`.gitignore`などを使うが,
 
 # 解答
 git update-index --assume-unchanged ????
+
+
+
+git update-index --assume-unchanged 特定のファイル
