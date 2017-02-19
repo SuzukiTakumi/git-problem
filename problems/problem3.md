@@ -9,3 +9,8 @@
 リモートのurlは https://github.com/d-o-n-u-t-s/git-school.git とする.
 
 # 解答
+
+
+
+
+git clone --depth=1 https://github.com/d-o-n-u-t-s/git-school.git develop
