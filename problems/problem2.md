@@ -4,3 +4,6 @@ gitignoreを作成する前にレポジトリに追加したくないファイ�
 このファイル(ignore.exeとする)を安全にレポジトリから削除する手順をコマンドで記述せよ
 
 git rm --cached ignore.exe
+
+
+git rm --cached ignore.exe
