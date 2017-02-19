@@ -7,3 +7,4 @@ gitで管理しているファイルだけをステージに登録したい.
 git rm --cashed path
 
 # 解説
+git add -u
