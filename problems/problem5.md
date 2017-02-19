@@ -8,3 +8,4 @@ gitでファイルを無視するには通常`.gitignore`などを使うが,
 （やり方は複数あります. 時間がある人は, それぞれの違いも調べてみましょう．）
 
 # 解答
+git update-index --assume-unchanged ????
