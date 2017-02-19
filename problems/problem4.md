@@ -5,3 +5,4 @@
 `git grep`などを使って一行のコマンドで一斉に置換してみよう.
 
 # 解答
+git grep -l "cat" | xargs sed -i "" -e "s/cat/dog/g"
