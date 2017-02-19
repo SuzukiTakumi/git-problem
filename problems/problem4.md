@@ -6,3 +6,7 @@
 
 # 解答
 git grep -l "cat" | xargs sed -i "" -e "s/cat/dog/g"
+
+
+
+git grep -l "cat" | xargs sed -i "" "s/cat/dog/g"
